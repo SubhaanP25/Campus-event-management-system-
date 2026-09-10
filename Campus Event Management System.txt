@@ -4,3 +4,5 @@ Campus Event Management system V1.0
   Dashboard
   Event Listing
   Registration
+  Event Reminder
+  Event Attendacne
