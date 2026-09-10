@@ -7,3 +7,5 @@ Campus Event Management system V1.0
   Event Reminder
   Event Attendacne
   SPECIFICATIONS
+  Admin Dashboard
+  Admin Login
