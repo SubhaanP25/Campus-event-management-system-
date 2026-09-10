@@ -1,0 +1,6 @@
+Campus Event Management system V1.0
+  Specifications:-
+  User Login
+  Dashboard
+  Event Listing
+  Registration
