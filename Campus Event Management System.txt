@@ -6,3 +6,4 @@ Campus Event Management system V1.0
   Registration
   Event Reminder
   Event Attendacne
+  SPECIFICATIONS
